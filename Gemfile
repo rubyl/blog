@@ -52,6 +52,6 @@ group :production do
 end
 
 group :development do
-  gem 'sqlite3'
+  gem 'sqlite3', '1.3.10'
 end
 
